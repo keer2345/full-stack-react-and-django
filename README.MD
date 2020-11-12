@@ -1,0 +1,1 @@
+- [Full Stack React & Django 1 - Basic REST API](https://www.youtube.com/watch?v=Uyei2iDA4Hs&list=PLillGF-RfqbbRA-CIUxlxkUpbq0IFkX60&index=1): github source tag: [tag01]()
